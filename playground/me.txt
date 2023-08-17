@@ -1,0 +1,5 @@
+{{#user}
+Name: Shibuna Pal
+Skills: HTML, CSS, JS, Github, Java
+Email:shibunapal69@gmail.com
+{{/user}}
